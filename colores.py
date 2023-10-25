@@ -47,3 +47,7 @@ print(matriz)
 for i in range(8):
     print(matriz[i])
     
+    
+    
+
+#como mostrar un solo punto de un solo color
